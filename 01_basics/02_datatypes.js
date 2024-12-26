@@ -6,7 +6,7 @@ console.log(3
     +
     3)// code readability should be high
 
-    console.log("hiarti")
+    console.log("arti")
 
     let name="arti"
     let age=23
