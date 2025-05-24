@@ -17,7 +17,7 @@ Object literal
 - Instances (new ,this)
 
 ## 4pillars
-Apstraction 
-Encapsulation
-Inheritance
-Polymorphism
+- Apstraction 
+- Encapsulation
+- Inheritance
+- Polymorphism
